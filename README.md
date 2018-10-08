@@ -1,2 +1,2 @@
 # rest-ajax
-REST ajax example
+REST ajax example, starts with rest.js => api.js => index.js
